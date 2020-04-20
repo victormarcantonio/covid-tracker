@@ -1,7 +1,7 @@
 Aplicação construída em React que mostra os casos de Covid-19 no mundo e em cada país através de cards e gráficos.
 
-<img src="image_app.png">
-<img src="image_app2.png">
+<img src="image_app.PNG">
+<img src="image_app2.PNG">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
