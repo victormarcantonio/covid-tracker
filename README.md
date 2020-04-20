@@ -1,3 +1,9 @@
+Aplicação construída em React que mostra os casos de Covid-19 no mundo e em cada país através de cards e gráficos.
+
+<img src="C:\Users\User\Documents\Aulas - Dev\React\covid-tracker\image_app.png">
+<img src="C:\Users\User\Documents\Aulas - Dev\React\covid-tracker\image_app2.png">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
