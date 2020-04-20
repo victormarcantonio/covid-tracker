@@ -1,5 +1,7 @@
 Aplicação construída em React que mostra os casos de Covid-19 no mundo e em cada país através de cards e gráficos.
 
+Link da aplicação: https://covid-tracker-347169.netlify.app/
+
 <img src="image_app.PNG">
 <img src="image_app2.PNG">
 
